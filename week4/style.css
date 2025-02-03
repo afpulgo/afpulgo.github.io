@@ -1,0 +1,105 @@
+body{
+    background-color:#16365d ;
+    background-size: cover;
+    font-family: Arial;
+    color: white;
+}
+
+
+
+
+
+p{
+    color:whitesmoke;
+}
+.kemeru{
+    color:crimson;
+}
+
+.shemeru{
+    color:blueviolet;
+ 
+}
+
+
+.pasikat{
+    color:red;
+    text-decoration: underline;
+}
+
+.haha{
+    text-align: left;
+}
+
+.media{
+    
+    color: red;
+}
+
+.center{
+    text-align: center;
+}
+
+
+.right{
+    text-align: right;
+    
+}
+.palahi{
+    text-decoration: underline;
+    color:lightgoldenrodyellow;
+}
+
+
+.shesh{
+    color: blue;
+}
+
+.hahaha {
+    color:greenyellow;
+}
+
+.formattext{
+    color: whitesmoke;
+    background-color: black;
+    width: 50%;
+    height: 55px;
+    border-left: 1px solid red;
+    border-top: 1px solid red;
+}
+
+h2{
+    color: greenyellow;
+}
+
+h3{
+    color:yellow;
+    width: 300px;
+    border-bottom: 1px solid yellow;
+    text-align: center;
+}
+
+.ror{
+    color: white;
+    background-color: black;
+    border-left: 1px solid red;
+    border-right: 1px solid yellow;
+    padding: 15px;
+    text-align: left;
+}
+
+.koko{
+    color: whitesmoke;
+    background-color: red;
+    text-align: left;
+}
+
+.hoho{
+    color: black;
+    background-color: greenyellow;
+    text-align: left;
+}
+
+ul{
+    color: white;
+}
